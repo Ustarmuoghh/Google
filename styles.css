@@ -233,7 +233,7 @@ select{
     }
 
     .form {
-        width: 100%;
+        width: fit-content;
         padding: 10px;
        
     }
@@ -241,4 +241,6 @@ select{
     .rightImage{
         display: none;
     }
+
+
  }
